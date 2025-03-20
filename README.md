@@ -1,2 +1,3 @@
-# MyRemoteRepo
-課堂簡易作業 in NCNU 軟工,實作 CRUD
+# Simple CRUD
+於 NCNU 軟工課堂簡易作業,實作 CRUD<br>
+Implement CRUD coursework in NCNU software engineering course.
